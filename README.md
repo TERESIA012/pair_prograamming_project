@@ -11,10 +11,11 @@ Namely;
 ## The table below will show a brief description of the cats.
 
 
-|:--Breed |:--Origin |:-- Weight|:--Habitat|
-|:--Lion |--:Africa|:--200kgs |:--Savannah Africa|
-|:--Tiger|:--Asia|:--300kgs|:--Rain Forest|
-|:--Cheetah|:--Africa|:--90kgs |--Savannah Africa|
-|:--Domestic cat|:--Egypt|:--7kgs|--Our Homes|
+|Breed  |Origin |Weight|Habitat|
+|-------|-------|------|-------|
+|Lion |Africa|200kgs |Savannah Africa|
+|Tiger|Asia|300kgs|Rain Forest|
+|Cheetah|Africa|90kgs |Savannah Africa|
+|Domestic cat|Egypt|7kgs|Our Homes|
 
 
